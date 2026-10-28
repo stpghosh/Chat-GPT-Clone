@@ -1,0 +1,31 @@
+[data-theme="dark"] {
+  --bg-primary: #212121;
+  --bg-secondary: #171717;
+  --bg-tertiary: #2f2f2f;
+  --bg-sidebar: #171717;
+  --bg-hover: #2f2f2f;
+  --bg-active: #3f3f3f;
+  
+  --text-primary: #ececec;
+  --text-secondary: #b4b4b4;
+  --text-tertiary: #8e8e8e;
+  
+  --border-color: #424242;
+  --border-hover: #565656;
+  
+  --accent-color: #3b82f6;
+  --accent-hover: #2563eb;
+  --accent-active: #1d4ed8;
+  
+  --user-bubble: #2f2f2f;
+  --ai-bubble: #212121;
+  
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -2px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4), 0 4px 6px -4px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme="dark"] .message-bubble pre,
+[data-theme="dark"] .message-bubble code {
+  background-color: #0d0d0d;
+}
