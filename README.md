@@ -2,7 +2,7 @@
 
 A modern, responsive AI chat web application inspired by ChatGPT. Built with React, Vite, and modern CSS.
 
-view website - https://chat-gpt-clone-five-sepia.vercel.app/
+View Website - https://chat-gpt-clone-five-sepia.vercel.app/
 
 ## Features
 
