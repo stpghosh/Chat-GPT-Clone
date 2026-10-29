@@ -49,7 +49,7 @@ const Sidebar = ({ isCollapsed, onToggle }) => {
     <aside className={`sidebar ${isCollapsed ? 'collapsed' : ''}`}>
       <div className="sidebar-header">
         <div className="sidebar-logo">
-          <div className="sidebar-logo-icon">CG</div>
+          <img src="/Chat GPT Logo.jpeg" alt="Chat GPT" style={{width:24,height:24,borderRadius:4}} />
           {!isCollapsed && <span>Chat GPT</span>}
         </div>
       </div>
